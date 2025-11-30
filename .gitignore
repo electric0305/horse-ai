@@ -208,3 +208,7 @@ __marimo__/
 
 .vscode/
 **/.ipynb_checkpoints/
+
+# Project data (large files are not tracked)
+data/raw/
+data/processed/
